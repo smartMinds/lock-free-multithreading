@@ -20,4 +20,4 @@ To write an application in c++ under OS Linux, which will have 2 threads:
 2. Code readability
 3. Workarounds count
 
-#### <i>Script for csv file generation located</i> – csvGenerator.py
+#### <i>Script for csv file generation located</i> – [csvGenerator.py](scvGenerator.py)
